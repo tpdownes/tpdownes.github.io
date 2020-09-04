@@ -1,10 +1,15 @@
 # About Me
 
-I'm a high performance computing consultant for [Univa](https://www.univa.com)
-based in Chicago. With Navops Launch, our Professional Services team helps
-customers in wide-ranging domains (life sciences, oil/gas, EDA) manage
-their compute and spend in the cloud so that they can focus on their research
-objectives.
+I'm a high performance computing consultant for [Univa][univa] based in Chicago.
+I lead our Professional Services team where we help customers in wide-ranging
+domains (life sciences, oil/gas, EDA) adopt [Navops Launch][launch]. Launch
+automates the scaling and tagging of Univa Grid Engine and Slurm clusters in the
+cloud (dedicated and hybrid!) to minimize and track cloud spend. I have led
+engagements with major life sciences customers to help them migrate many
+production clusters in the cloud to Launch.
+
+[univa]: https://www.univa.com/
+[launch]: https://www.univa.com/products/navops.php
 
 In a former life, I managed a team of DevOps engineers at the [Center for
 Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu) supporting the
