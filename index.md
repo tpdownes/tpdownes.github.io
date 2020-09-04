@@ -13,7 +13,7 @@ and neutron stars through their impact on gravity rather than by light. We were
 responsible for delivering computing services critical to the collaboration's
 scientific objectives. Examples include:
 
-* 6000 core computing cluster running HTCondor
+* 6000 core computing cluster running [HTCondor][htcondor]
 * [LIGO GitLab](https://git.ligo.org): managing our analysis libraries through
   proper continuous integration techniques. Over 1000 users migrated to this
   service, replacing a long list of duplicative (and older) services such as
@@ -22,7 +22,10 @@ scientific objectives. Examples include:
   coordinates near-real-time observations by partner observatories when the
   LIGO/Virgo network detects a gravitational wave event. In 2017, the LIGO/Virgo
   detection of a binary neutron star meger -- and follow-up by 50 observatories!
-  -- was [Science Magazine's Breakthrough of the Year](https://vis.sciencemag.org/breakthrough2017/).
+  -- was [Science Magazine's Breakthrough of the Year][sciencemag].
+
+[htcondor]: https://research.cs.wisc.edu/htcondor/
+[sciencemag]: https://vis.sciencemag.org/breakthrough2017/
 
 ## Professional Information
 
