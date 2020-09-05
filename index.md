@@ -36,3 +36,9 @@ scientific objectives. Examples include:
 
 * [Resume](resume.pdf)
 * [Academic CV](cv.pdf)
+
+## Talks
+
+* [Open Mic Night at Milwaukee Big Data Meetup](open-mic-night.pptx)
+* [LIGO Containers in diverse computing environments](https://agenda.hep.wisc.edu/event/1201/session/13/contribution/34/material/slides/1.pdf)
+* [Effective use of cgroups in HTCondor](https://research.cs.wisc.edu/htcondor/HTCondorWeek2017/presentations/WedDownes_cgroups.pdf)
