@@ -8,6 +8,13 @@ cloud (dedicated and hybrid!) to minimize and track cloud spend. I have led
 engagements with major life sciences customers to help them migrate many
 production clusters in the cloud to Launch.
 
+I work with the sales team closely to understand use cases, develop statements
+of work and to translate customer requirements to the engineering team when the
+product doesn't quite fit but could be made to. I've experienced the
+difficulties of making HPC work at extreme scales within a corporate IT
+environment more attuned to other priorities. Along the way, I've picked up
+Terraform, Chef, and a taste for solving problems in varying environments.
+
 [univa]: https://www.univa.com/
 [launch]: https://www.univa.com/products/navops.php
 
