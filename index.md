@@ -49,3 +49,13 @@ scientific objectives. Examples include:
 * [Open Mic Night at Milwaukee Big Data Meetup](open-mic-night.pptx)
 * [LIGO Containers in diverse computing environments](https://agenda.hep.wisc.edu/event/1201/session/13/contribution/34/material/slides/1.pdf)
 * [Effective use of cgroups in HTCondor](https://research.cs.wisc.edu/htcondor/HTCondorWeek2017/presentations/WedDownes_cgroups.pdf)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169259371-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169259371-1');
+</script>
