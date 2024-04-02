@@ -1,27 +1,38 @@
 # About Me
 
-I'm a high performance computing consultant for [Univa][univa] based in Chicago.
-I lead our Professional Services team where we help customers in wide-ranging
-domains (life sciences, oil/gas, EDA) adopt [Navops Launch][launch]. Launch
-automates the scaling and tagging of Univa Grid Engine and Slurm clusters in the
-cloud (dedicated and hybrid!) to minimize and track cloud spend. I have led
-engagements with major life sciences customers to help them migrate many
-production clusters in the cloud to Launch.
+I'm a software engineer for the Google Cloud [HPC Toolkit][hpctk] based in
+Chicago. The Toolkit is an open source tool that makes it easy to use Terraform,
+Packer, and Ansible to provision custom HPC/AI/ML infrastructure in Google
+Cloud following our best practices.
 
-I work with the sales team closely to understand use cases, develop statements
-of work and to translate customer requirements to the engineering team when the
-product doesn't quite fit but could be made to. I've experienced the
-difficulties of making HPC work at extreme scales within a corporate IT
-environment more attuned to other priorities. Along the way, I've picked up
-Terraform, Chef, and a taste for solving problems in varying environments.
+- [YouTube Series](https://goo.gle/HPCToolkitPlaylist)
+- [Toolkit on GitHub](https://github.com/GoogleCloudPlatform/hpc-toolkit)
 
-[univa]: https://www.univa.com/
-[launch]: https://www.univa.com/products/navops.php
+## Professional Information
 
-In a former life, I managed a team of DevOps engineers at the [Center for
-Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu) supporting the
-[LIGO experiment](https://www.ligo.org). LIGO observes objects like black holes
-and neutron stars through their impact on gravity rather than by light. We were
+* [Resume](resume.pdf)
+* [LinkedIn](https://www.linkedin.com/in/tpdownes/)
+
+## Former lives
+
+I joined Google in its Professional Services organization, focused on HPC
+customers. Examples of my work include:
+
+- a pipeline for a Life Sciences tech company that published golden data sets
+  for use in batch and Kubernetes workloads
+- a custom autoscaler for GKE that handled high rates of Spot preemption at the
+  customer's extreme scale; a similar solution was later adopted by Google
+  Kubernetes Engine
+
+Before Google, I worked for [Univa] (acquired by Altair) where I led its
+Professional Services team. We helped customers adopt [Navops Launch][launch]
+to autoscale Univa Grid Engine clusters in the cloud with a focus on life
+sciences.
+
+At even higher [redshift], I managed a team of DevOps engineers at the [Center
+for Gravitation, Cosmology, and Astrophysics](https://cgca.uwm.edu) supporting
+the [LIGO experiment](https://www.ligo.org). LIGO observes black holes and
+neutron stars through their impact on gravity rather than by light. We were
 responsible for delivering computing services critical to the collaboration's
 scientific objectives. Examples include:
 
@@ -36,26 +47,15 @@ scientific objectives. Examples include:
   detection of a binary neutron star meger -- and follow-up by 50 observatories!
   -- was [Science Magazine's Breakthrough of the Year][sciencemag].
 
-[htcondor]: https://research.cs.wisc.edu/htcondor/
-[sciencemag]: https://vis.sciencemag.org/breakthrough2017/
-
-## Professional Information
-
-* [Resume](resume.pdf)
-* [Academic CV](cv.pdf)
-
 ## Talks
 
 * [Open Mic Night at Milwaukee Big Data Meetup](open-mic-night.pptx)
 * [LIGO Containers in diverse computing environments](https://agenda.hep.wisc.edu/event/1201/session/13/contribution/34/material/slides/1.pdf)
 * [Effective use of cgroups in HTCondor](https://research.cs.wisc.edu/htcondor/HTCondorWeek2017/presentations/WedDownes_cgroups.pdf)
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169259371-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-169259371-1');
-</script>
+[hpctk]: https://cloud.google.com/hpc-toolkit
+[redshift]: https://en.wikipedia.org/wiki/Hubble%27s_law
+[Univa]: https://www.univa.com/
+[launch]: https://www.univa.com/products/navops.php
+[htcondor]: https://research.cs.wisc.edu/htcondor/
+[sciencemag]: https://vis.sciencemag.org/breakthrough2017/
