@@ -1,12 +1,18 @@
 # About Me
 
-I'm a software engineer for the Google Cloud [HPC Toolkit][hpctk] based in
-Chicago. The Toolkit is an open source tool that makes it easy to use Terraform,
+I'm a software engineer for the Google Cloud [Cluster Toolkit][tk].
+The Toolkit is an open source tool that makes it easy to use Terraform,
 Packer, and Ansible to provision custom HPC/AI/ML infrastructure in Google
 Cloud following our best practices.
 
 - [YouTube Series](https://goo.gle/HPCToolkitPlaylist)
-- [Toolkit on GitHub](https://github.com/GoogleCloudPlatform/hpc-toolkit)
+- [Toolkit on GitHub](https://github.com/GoogleCloudPlatform/cluster-toolkit)
+
+I joined the Toolkit in its first round of hires and led the implementation
+and support for GPU-based AI/ML workloads under Slurm. I prioritize the customer
+perspective and helped grow the Toolkit from an idea to a fully-supported Cloud
+Product with significant spend in key segments (e.g.,
+[World Labs selection of Toolkit][wl]). 
 
 ## Professional Information
 
@@ -53,9 +59,10 @@ scientific objectives. Examples include:
 * [LIGO Containers in diverse computing environments](https://agenda.hep.wisc.edu/event/1201/session/13/contribution/34/material/slides/1.pdf)
 * [Effective use of cgroups in HTCondor](https://research.cs.wisc.edu/htcondor/HTCondorWeek2017/presentations/WedDownes_cgroups.pdf)
 
-[hpctk]: https://cloud.google.com/hpc-toolkit
+[tk]: https://cloud.google.com/cluster-toolkit
 [redshift]: https://en.wikipedia.org/wiki/Hubble%27s_law
 [Univa]: https://www.univa.com/
 [launch]: https://www.univa.com/products/navops.php
 [htcondor]: https://research.cs.wisc.edu/htcondor/
 [sciencemag]: https://vis.sciencemag.org/breakthrough2017/
+[wl]: https://cloud.google.com/blog/topics/startups/startup-summit-new-ai-models-isv-springboard-go-to-market
